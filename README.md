@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**ahakimsheik7/ahakimsheik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Banner](./banner.png)
 
-Here are some ideas to get you started:
+# 👋 Hi! I’m Abdulhakim Sheik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌙 I’m a faith-driven Marketing Consultant specializing in:
+
+- 🎯 **Salesforce Marketing Cloud (SFMC)**  
+- ✉️ **AMPscript + Email Personalization**  
+- 📊 **SQL for segmentation**  
+- 🔁 **Journey Builder logic**  
+- 💻 **Responsive HTML/CSS email development**  
+- 🌐 **Google Business & AI Website setup**
+
+---
+
+## 🛠️ Projects I’m Building
+
+📩 [Email Portfolio (AMPscript Projects)](https://github.com/ahakimsheik7/ampscript-practice)  
+📦 [Sufi Academy Emails](#)  
+✈️ [Airline Email Templates](#)  
+🏥 [Healthcare Appointment Reminders](#)
+
+---
+
+## 🚀 My Journey in 100 Nights
+
+🔁 Practicing nightly and documenting every step  
+🎓 Preparing for Salesforce Marketing Cloud Certification  
+💼 Freelance-ready with clean code and consultant mindset  
+
+---
+
+## 📬 Let’s Connect
+
+🌍 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
+💼 [Upwork](https://www.upwork.com/freelancers/~YOUR_PROFILE)  
+📧 Email: youremail@example.com
+
+---
+
+> *“My goal is to earn with integrity, serve with skill, and help businesses grow with automation and strategy.”*
+
