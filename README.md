@@ -3,7 +3,7 @@
 
 # 👋 Hi! I’m Abdulhakim Sheik
 
-🌙 I’m a faith-driven Marketing Consultant specializing in:
+🌙 I'm a faith-driven Marketing Consultant specializing in:
 
 - 🎯 **Salesforce Marketing Cloud (SFMC)**  
 - ✉️ **AMPscript + Email Personalization**  
@@ -14,12 +14,12 @@
 
 ---
 
-## 🛠️ Projects I’m Building
+## 🛠️ Projects I'm Building
 
-📩 [Email Portfolio (AMPscript Projects)](https://github.com/ahakimsheik7/ampscript-practice)  
-📦 [Sufi Academy Emails](#)  
-✈️ [Airline Email Templates](#)  
-🏥 [Healthcare Appointment Reminders](#)
+https://github.com/ahakimsheik7/100-nights-sfmc
+https://github.com/ahakimsheik7/100-nights-sfmc/tree/main/emails/airline) 
+  
+https://github.com/ahakimsheik7/100-nights-sfmc/tree/main/emails/adventures)
 
 ---
 
@@ -27,17 +27,17 @@
 
 🔁 Practicing nightly and documenting every step  
 🎓 Preparing for Salesforce Marketing Cloud Certification  
-💼 Freelance-ready with clean code and consultant mindset  
+💼 Freelance-ready with clean code and a consultant mindset  
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
-🌍 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
-💼 [Upwork](https://www.upwork.com/freelancers/~YOUR_PROFILE)  
-📧 Email: youremail@example.com
+🌍 https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile 
+💼https://www.upwork.com/freelancers/~013e32b5dcf79e8e36 
+📧 Email: ahakimsheik7@gmail.com
 
 ---
 
-> *“My goal is to earn with integrity, serve with skill, and help businesses grow with automation and strategy.”*
+> *"My goal is to earn with integrity, serve with skill, and help businesses grow with automation and strategy."*
 
